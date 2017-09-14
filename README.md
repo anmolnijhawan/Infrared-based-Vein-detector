@@ -1,1 +1,1 @@
-# Infrared-based-Vein-detector
+# Infrared-based-Vein-detector. Designed a portable device to point out major vein on wrist of an individual. Device performs image acquisition, processing and laser diode displacement in real time to point out vein on wrist. Video Link:- https://www.youtube.com/watch?v=whT0-uBiGF4                                                      
